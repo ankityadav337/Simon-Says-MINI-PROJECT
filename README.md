@@ -1,2 +1,2 @@
 # Simon-Says-MINI-PROJECT
-This is the mini project ,mostly use javaScript 
+This is the mini project ,mostly use javaScript.
